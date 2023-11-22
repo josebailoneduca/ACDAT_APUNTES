@@ -21,6 +21,15 @@ public class ud1_6_AccesoAleatorio {
     
     
     
+    
+    
+short(2B), byte(1B), long(8B), int(4B), boolean (1bit_1B en disco), float(4B) char(2B) double(8B)    
+    
+    
+    
+    
+    
+    
 public void AGREGAR_RANDOMACCESSFILE(){
 
 RandomAccessFile raf = null;
